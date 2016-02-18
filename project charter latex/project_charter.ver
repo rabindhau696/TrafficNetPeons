@@ -1,0 +1,26 @@
+\begin {longtable}{@{}|l|l|>{\hsize =\vhAuthorColWidth }X|>{\hsize =\vhChangeColWidth }X|@{}}\hline 
+\textbf {\vhversionname }
+ & \textbf {\vhdatename }
+ & \textbf {\vhauthorname }
+ & \textbf {\vhchangename }\\\hline 
+0.1
+ & 1.19.2016
+ & \listset {PC|JH|RT|RD|KE}
+ & document creation\\\hline 
+0.2
+ & 2.05.2016
+ & \listset {PC|JH|RT|RD|KE}
+ & complete draft\\\hline 
+0.3
+ & 2.12.2016
+ & \listset {PC|JH|RT|RD|KE}
+ & release candidate 1\\\hline 
+1.0
+ & 2.18.2016
+ & \listset {PC|JH|RT|RD|KE}
+ & official release\\\hline 
+1.1
+ & 2.19.2016
+ & \listset {PC|JH|RT|RD|KE}
+ & added customer change requests\\\hline 
+\end {longtable}

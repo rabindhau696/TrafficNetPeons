@@ -1,3 +1,4 @@
+
 %%% LaTeX Template: Article/Thesis/etc. with colored headings and special fonts
 %%%
 %%% Source: http://www.howtotex.com/
@@ -26,14 +27,14 @@
 
 %%% Definitions
 \definecolor{accentcolor}{rgb}{0.0,0.0,0.5} 
-\newcommand{\teamname}{Team Name}
-\newcommand{\productname}{Product Name}
+\newcommand{\teamname}{TrafficNetPeons}
+\newcommand{\productname}{Product Name: TBD}
 \newcommand{\coursename}{CSE 4316: Senior Design I}
-\newcommand{\semester}{Fall 2015}
+\newcommand{\semester}{Fall 2016}
 \newcommand{\docname}{Project Charter}
 \newcommand{\department}{Department of Computer Science \& Engineering}
 \newcommand{\university}{The University of Texas at Arlington}
-\newcommand{\authors}{Alan Turing \\ Grace Hopper \\ John Von Neumann \\ Ada Lovelace \\ Charles Babbage}
+\newcommand{\authors}{Peyton Casper \\ Ruchitha Thalakola \\ Jose Hernandez \\ Rabin Dhoubanjar \\ Kyle Edelmann}
 
 %%% Headers and footers
 \usepackage{fancyhdr}
@@ -45,8 +46,9 @@
 	\rhead{}
 	% Footer
 	\lfoot{\footnotesize \teamname \ - \semester}
+
 	\cfoot{}
-	\rfoot{\footnotesize page \thepage\ of \pageref{LastPage}}	% "Page 1 of 2"
+	\rfoot{\footnotesize page \thepage\ of \pageref{lastpage}}	% "Page 1 of 2"
 	\renewcommand{\headrulewidth}{0.0pt}
 	\renewcommand{\footrulewidth}{0.4pt}
 
@@ -69,7 +71,8 @@
 \vspace{0.5 in}
 \begin{figure}[h!]
 	\centering
-   	\includegraphics[width=0.60\textwidth]{images/test_image}
+   	\includegraphics[width=0.60\textwidth]{images/test_image1
+}
 \end{figure}
 \vspace{0.5 in}
 {\centering \huge \color{accentcolor} \sc \textbf{\teamname \\ \productname} \par}
@@ -84,11 +87,11 @@
 
 %%% Revision History
 \begin{versionhistory}
-  	\vhEntry{0.1}{10.01.2015}{GH}{document creation}
-  	\vhEntry{0.2}{10.05.2015}{AT|GH}{complete draft}
-  	\vhEntry{0.3}{10.12.2015}{AT|GH}{release candidate 1}
-  	\vhEntry{1.0}{10.20.2015}{AT|GH|CB}{official release}
-  	\vhEntry{1.1}{10.31.2015}{AL}{added customer change requests}
+  	\vhEntry{0.1}{1.19.2016}{PC|JH|RT|RD|KE}{document creation}
+  	\vhEntry{0.2}{2.05.2016}{PC|JH|RT|RD|KE}{complete draft}
+  	\vhEntry{0.3}{2.12.2016}{PC|JH|RT|RD|KE}{release candidate 1}
+  	\vhEntry{1.0}{2.18.2016}{PC|JH|RT|RD|KE}{official release}
+  	\vhEntry{1.1}{2.19.2016}{PC|JH|RT|RD|KE}{added customer change requests}
 \end{versionhistory}
 \newpage
 
@@ -113,6 +116,7 @@
 %%% Remaining project charter sections
 \section{Background}
 \input{tex/background}
+
 \section{Related Work}
 \input{tex/related_work}
 \section{System Overview}
