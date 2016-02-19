@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.2.18)  19 FEB 2016 00:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.2.18)  19 FEB 2016 00:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -672,36 +672,27 @@ Overfull \hbox (1.4296pt too wide) detected at line 33
 (./tex/facilities_equipment.tex) (./tex/cost_proposal.tex
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 11.52008pt on input line 1.
- [6]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.3 
-    
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.6 
-    
-? 
-) (./tex/documentation_reporting.tex
+ [6])
+(./tex/documentation_reporting.tex
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
-(Font)              scaled to size 10.51207pt on input line 12.
- [7]
-<images/test_image.jpg, id=30, 903.375pt x 677.53125pt>
-File: images/test_image.jpg Graphic file (type jpg)
+(Font)              scaled to size 10.51207pt on input line 10.
 
-<use images/test_image.jpg>
-Package pdftex.def Info: images/test_image.jpg used on input line 26.
-(pdftex.def)             Requested size: 234.8775pt x 176.15396pt.
+<images/sprint_burndown.jpg, id=25, 551.81157pt x 325.215pt>
+File: images/sprint_burndown.jpg Graphic file (type jpg)
 
-Overfull \hbox (0.44078pt too wide) in paragraph at lines 37--38
+<use images/sprint_burndown.jpg>
+Package pdftex.def Info: images/sprint_burndown.jpg used on input line 24.
+(pdftex.def)             Requested size: 234.8775pt x 138.4304pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7]
+Overfull \hbox (0.44078pt too wide) in paragraph at lines 35--36
 \T1/mdbch/m/n/10.95 Engineering note-books will be used by all team mem-bers to
  record ideas, ob-ser-va-tions, de-signs, progress,
  []
 
-[8 <./images/test_image.jpg>]
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `latin1'.
@@ -710,7 +701,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 ...ontain information regarding the projectâ€
+l.45 ...ontain information regarding the projectâ€
                                                   ™s vision, mission, backgr...
 
 ? 
@@ -722,7 +713,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 ...ntain information regarding the projectâ€™
+l.45 ...ntain information regarding the projectâ€™
                                                   s vision, mission, backgro...
 
 ? 
@@ -734,7 +725,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 ...on, background, and the finished productâ€
+l.45 ...on, background, and the finished productâ€
                                                   ™s hardware and software d...
 
 ? 
@@ -746,10 +737,11 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 ...n, background, and the finished productâ€™
+l.45 ...n, background, and the finished productâ€™
                                                   s hardware and software de...
 
 ? 
+[8 <./images/sprint_burndown.jpg>]
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `latin1'.
@@ -758,7 +750,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71 ...ow to make changes according to the userâ€
+l.69 ...ow to make changes according to the userâ€
                                                   ™s preferences. This will ...
 
 ? 
@@ -770,7 +762,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71 ...w to make changes according to the userâ€™
+l.69 ...w to make changes according to the userâ€™
                                                   s preferences. This will b...
 
 ? 
@@ -778,22 +770,21 @@ l.71 ...w to make changes according to the userâ€™
 AED: lastpage setting LastPage
 [10] (./project_charter.aux) ) 
 Here is how much of TeX's memory you used:
- 6039 strings out of 493085
- 82233 string characters out of 6136917
+ 6035 strings out of 493085
+ 82228 string characters out of 6136917
  151893 words of memory out of 5000000
  9293 multiletter control sequences out of 15000+600000
- 61190 words of font info for 74 fonts, out of 8000000 for 9000
+ 60304 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,12n,43p,954b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ly
 1/texnansi.enc}</usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchb
 8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb>
-Output written on project_charter.pdf (10 pages, 176916 bytes).
+/usr/share/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb>
+Output written on project_charter.pdf (10 pages, 200425 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
