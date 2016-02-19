@@ -6,21 +6,21 @@
 0.1
  & 1.19.2016
  & \listset {PC|JH|RT|RD|KE}
- & document creation\\\hline 
+ & Document Creation\\\hline 
 0.2
  & 2.05.2016
  & \listset {PC|JH|RT|RD|KE}
- & complete draft\\\hline 
+ & Initial Draft Complete\\\hline 
 0.3
  & 2.12.2016
  & \listset {PC|JH|RT|RD|KE}
- & release candidate 1\\\hline 
+ & Updated Draft\\\hline 
 1.0
  & 2.18.2016
  & \listset {PC|JH|RT|RD|KE}
- & official release\\\hline 
+ & Draft Complete\\\hline 
 1.1
  & 2.19.2016
  & \listset {PC|JH|RT|RD|KE}
- & added customer change requests\\\hline 
+ & Document Release\\\hline 
 \end {longtable}
