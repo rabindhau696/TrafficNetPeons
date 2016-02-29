@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peyton/Downloads/zmq demo/zmq.hpp
+zmq.h
+-
+algorithm
+-
+cassert
+-
+cstring
+-
+string
+-
+exception
+-
+vector
+-
+iterator
+-
+chrono
+-
+tuple
+-
+
+/home/peyton/Downloads/zmq demo/zmq_cv_request.cpp
+string
+-
+cstdio
+-
+zmq.hpp
+/home/peyton/Downloads/zmq demo/zmq.hpp
+opencv2/opencv.hpp
+/home/peyton/Downloads/zmq demo/opencv2/opencv.hpp
+
+/usr/local/include/zmq.h
+errno.h
+-
+stddef.h
+-
+stdio.h
+-
+winsock2.h
+-
+inttypes.h
+-
+stdint.h
+-
+
