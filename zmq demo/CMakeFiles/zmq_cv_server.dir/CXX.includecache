@@ -28,19 +28,15 @@ chrono
 tuple
 -
 
-/home/peyton/Documents/TrafficNetPeons/zmq demo/zmq_cv_request.cpp
-string
--
+/home/peyton/Documents/TrafficNetPeons/zmq demo/zmq_cv_server.cpp
 cstdio
 -
-ctime
+vector
 -
-unistd.h
--
-zmq.hpp
-/home/peyton/Documents/TrafficNetPeons/zmq demo/zmq.hpp
 opencv2/opencv.hpp
 /home/peyton/Documents/TrafficNetPeons/zmq demo/opencv2/opencv.hpp
+zmq.hpp
+/home/peyton/Documents/TrafficNetPeons/zmq demo/zmq.hpp
 
 /usr/local/include/zmq.h
 errno.h

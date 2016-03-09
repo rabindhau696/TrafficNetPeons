@@ -62,7 +62,7 @@ int main(int argc, char **argv)
 
     // connect to the image server
 	std::printf("Connecting to server... \n");
-    socket.connect ("tcp://192.168.1.99:5555");
+    socket.connect ("tcp://192.168.0.100:5555");
 
     // create a request object
     zmq::message_t request(5);
